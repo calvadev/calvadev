@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristian Alvarez-Hernandez</h1>
-<h3 align="center">A passionate software developer from Houston, TX</h3>
+<h3 align="center">A passionate software developer exploring the world and meeting new people</h3>
 
 - 🔭 I’m currently working on [Commenda](https://www.commenda.io/)
 
