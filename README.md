@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Commenda](https://www.commenda.io/)
 
-- 🌱 I’m currently learning **Next.js, Node.js**
+- 🌱 I’m currently learning **Next.js, JQuery**
 
 - 👯 I’m looking to collaborate on [LND](https://github.com/lightningnetwork/lnd)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **punk698@reacher.me**
 
-- ⚡ Fun fact **I am 100% invested in Bitcoin**
+- ⚡ Fun fact **I live off Bitcoin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
