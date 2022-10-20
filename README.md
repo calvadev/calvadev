@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristian Alvarez-Hernandez</h1>
-<h3 align="center">A passionate software developer from the United States</h3>
+<h3 align="center">A passionate full stack developer from the United States</h3>
 
 - 🔭 I’m currently working on [Commenda](https://www.commenda.io/)
 
