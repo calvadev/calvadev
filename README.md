@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Commenda](https://www.commenda.io/)
 
-- 🌱 I’m currently learning **Next.js, JQuery**
+- 🌱 I’m currently learning **Next.js, Prisma**
 
 - 👯 I’m looking to collaborate on [LND](https://github.com/lightningnetwork/lnd)
 
