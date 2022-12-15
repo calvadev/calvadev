@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [the Liquid Network](https://docs.blockstream.com/liquid/technical_overview.html)
 
-- 📝 I regularly write articles on [https://punk698.substack.com/](https://punk698.substack.com/)
+- 📝 I regularly write articles on [https://calvadev.substack.com/](https://calvadev.substack.com/)
 
 - 💬 Ask me about **Bitcoin and the Lightning Network**
 
@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/stxpunk698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stxpunk698" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/punk698/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/punk698/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9347647/punk698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9347647/punk698" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/punk698/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/punk698/" height="30" width="40" /></a>
+<a href="https://twitter.com/calvadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="calvadev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/calvadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/calvadev/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9347647/calvadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9347647/calvadev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/calvadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/calvadev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
