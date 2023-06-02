@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Commenda](https://www.commenda.io/)
 
-- 🌱 I’m currently learning **Next.js, Prisma**
+- 🌱 I’m currently learning **Nostr, Next.js**
 
-- 👯 I’m looking to collaborate on [LND](https://github.com/lightningnetwork/lnd)
+- 👯 I’m looking to collaborate on [Nostr](https://github.com/nostr-protocol/nostr)
 
-- 🤝 I’m looking for help with [the Liquid Network](https://docs.blockstream.com/liquid/technical_overview.html)
+- 🤝 I’m looking for help with [LND](https://docs.blockstream.com/liquid/technical_overview.html)
 
-- 📝 I regularly write articles on [https://calvadev.substack.com/](https://calvadev.substack.com/)
+- 📝 I regularly write articles on [Substack](https://calvadev.substack.com/)
 
-- 💬 Ask me about **Bitcoin and the Lightning Network**
+- 💬 Ask me about **Bitcoin and Nostr**
 
 - 📫 How to reach me **calvadev@reacher.me**
 
