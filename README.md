@@ -3,12 +3,6 @@
 
 - 🔭 I’m currently working on [Shopstr](https://github.com/calvadev/shopstr)
 
-- 🌱 I’m currently learning **Nostr, Cashu**
-
-- 👯 I’m looking to collaborate on [Nostr](https://github.com/nostr-protocol/nostr)
-
-- 🤝 I’m looking for help with [Cashu](https://github.com/cashubtc)
-
 - 📝 I regularly write articles on [Substack](https://calvadev.substack.com/)
 
 - 💬 Ask me about **Bitcoin and Nostr**
