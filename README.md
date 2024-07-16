@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Shopstr](https://github.com/calvadev/shopstr)
 
-- 📝 I regularly write articles on [Substack](https://calvadev.substack.com/)
+- 📝 I regularly write articles on [Highlighter](https://highlighter.com/npub16dhgpql60vmd4mnydjut87vla23a38j689jssaqlqqlzrtqtd0kqex0nkq)
 
 - 💬 Ask me about **Bitcoin and Nostr**
 
